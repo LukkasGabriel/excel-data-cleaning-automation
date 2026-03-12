@@ -37,8 +37,6 @@ The final Excel file exports clean tables, regional revenue summaries and format
 
 # Project Structure
 
-## Project Structure
-
 ```
 project/
 │
