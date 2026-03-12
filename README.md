@@ -71,7 +71,3 @@ Excel Data Engineering
 Pandas Data Manipulation
 
 ---
-
-# Author
-
-Lucas
